@@ -1,4 +1,4 @@
-# Power-BI---Projects
+# Power-BI-Projects
 Learnt Data Visualization and Data Analytics with Power Bi by solving  4 Realistic Analytics Projects.
 
   <pre>

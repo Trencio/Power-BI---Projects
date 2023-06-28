@@ -1,5 +1,5 @@
 # Power-BI-Projects
-Learnt Data Visualization and Data Analytics with Power Bi by solving  4 Realistic Analytics Projects.
+Learnt Data Visualization and Data Analytics with Power Bi by solving  5 Realistic Analytics Projects.
 
   <pre>
   1. Maven Market Analysis 

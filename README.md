@@ -14,3 +14,4 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 ## Screenshots
 
 ### 1. Maven Market Analysis 
+< img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Maven%20Market%20Analysis%20.png" />

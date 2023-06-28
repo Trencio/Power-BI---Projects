@@ -15,3 +15,27 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 ### 1. Maven Market Analysis 
 <img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Maven%20Market%20Analysis%20.png/">
+
+### 2.1 Bike Shop Analysis 1 
+
+<img src = "/">
+
+### 2.2 Bike Shop Analysis 2 
+
+<img src = "/">
+
+## 2.3 Bike Shop Analysis 3 
+
+<img src = "/">
+
+## 3. Covid 19 Research Analysis 
+<img src = "/">
+
+## 4.1 Avalanche Car Rental BI 1
+<img src = "/">
+
+## 4.2 Avalanche Car Rental BI 2
+<img src = "/">
+
+## 5. Amazon Business Intelligence Analysis
+<img src = "/">

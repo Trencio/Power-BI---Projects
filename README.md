@@ -13,45 +13,45 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 ## Screenshots
 
-### 1. Maven Market Analysis 
+  1. ###  Maven Market Analysis 
 <img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Maven%20Market%20Analysis%20.png/">
 
 
 
-### 2.1 Bike Shop Analysis 1 
+2. ### Bike Shop Analysis 1 
 
 <img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Bike%20Shop%20Analysis%201.png/">
 
 
 
-### 2.2 Bike Shop Analysis 2 
+2. ### Bike Shop Analysis 2 
 
 <img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Bike%20Shop%20Analysis%202.png/">
 
 
 
-## 2.3 Bike Shop Analysis 3 
+2. ### Bike Shop Analysis 3 
 
 <img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Bike%20Shop%20Analysis%203.png/">
 
 
 
-## 3. Covid 19 Research Analysis 
+3. ### Covid 19 Research Analysis 
 <img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Covid%2019%20Research%20Analysis.png/">
 
 
 
-## 4.1 Avalanche Car Rental BI 1
+4. ### Avalanche Car Rental BI 1
 <img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Avalanche%20Car%20Rental%20BI%201.png/">
 
 
 
-## 4.2 Avalanche Car Rental BI 2
+4. ### Avalanche Car Rental BI 2
 <img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Avalanche%20Car%20Rental%20BI%202.png/">
 
 
 
-## 5. Amazon Business Intelligence Analysis
+5. ### Amazon Business Intelligence Analysis
 <img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Amazon%20Business%20Intelligence%20Dashboard.png/">
 
 

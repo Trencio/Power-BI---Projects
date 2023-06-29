@@ -7,6 +7,7 @@ Learnt Data Visualization and Data Analytics with Power Bi by solving  5 Realist
   3. Covid Research Analysis 
   4. Avalanche Car Rental BI 1,2
   5. Amazon Business Intelligence Dashboard
+  6. Bike Shop BI Dashboard (In Progress) 
   </pre>
 
 

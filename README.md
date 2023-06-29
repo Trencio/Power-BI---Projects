@@ -9,7 +9,6 @@ Learnt Data Visualization and Data Analytics with Power Bi by solving  5 Realist
   5. Amazon Business Intelligence Dashboard
   </pre>
 
-View all my Tableau-Projects Dashboards on my Tableau Public Profile link - 
 
 ## Screenshots
 
@@ -56,22 +55,19 @@ View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
 
 
 ## What I Learned With Power BI Over The Years: 
-- importing and connecting data from various sources
-- Transforming and shaping data using Power Query Editor
-- Creating relationships between data tables
-- Building visualizations using drag-and-drop interface
-- Applying filters and slicers to interact with data
-- Creating calculated fields and measures using DAX expressions
-- Designing interactive dashboards with drill-down capabilities
-- Utilizing hierarchies and grouping for data organization
-- Incorporating custom visuals and extensions
-- Implementing advanced analytics features like forecasting and clustering
-- Using bookmarks and report navigation for storytelling
-- Configuring data refresh schedules for up-to-date reports
-- Enabling natural language queries with Q&A feature
-- Publishing and sharing reports with others
-- Collaborating on reports with team members
-- Creating paginated reports for printable outputs
-- Implementing row-level security to control data access
-- Integrating Power BI with other Microsoft tools and services
-- Designing mobile-friendly reports with responsive layouts
+
+  1. Data Modeling: Power BI taught me how to structure and model your data effectively. Actively  learning about creating relationships between tables, defining calculated columns and measures, and implementing data hierarchies. While also understanding data modeling is crucial for building powerful and accurate visualizations.
+
+2. Data Transformation and Querying: Over the years I learned how to extract, transform, and load (ETL) data using Power Query Editor. Optimizing  and shaping data, merging multiple data sources, and performing advanced transformations to prepare my data for analysis.
+
+3. Visualizations and Customization: Power BI offers a wide range of  visualizations and customization options. Over the years I advanced my techniques with creating  bar charts, pie charts, line charts, scatter plots, matrices, maps, and more. Additionally, adding in  reformatting methods, colors, labels, and tooltips to enhance the visual appeal of my reports and dashboards.
+
+4. Interactive Reports and Dashboards: By creating interactive reports and dashboards this allowed stakeholders and executives to explore and interact with data more intiutively.  I also learned how to add filters, slicers, drill-through actions, bookmarks, and other interactive elements to enable data exploration and analysis.
+
+5. DAX Formulas and Expressions:  These often included advanced calculations and measures created using Data Analysis Expressions (DAX). Utilising DAX formulas to perform calculations, create custom measures, apply conditional logic, and perform time intelligence calculations for meaningful insights.
+
+6. Power Query M Language: Over the years I gained experience with  the Power Query M language used for data transformation. Learning  how to write custom M expressions to handle complex data cleansing, merging, and transformations that go beyond the capabilities of the Power Query Editor.
+
+7. Data Refresh and Automation: Power BI examples can guide you on scheduling data refreshes, configuring data gateway connections, and automating report updates. This allowed me to set up scheduled refreshes for my data sources and ensure that my reports and dashboards always reflect the latest data.
+
+8. Collaboration and Sharing: Demonstrating  how to collaborate with others and share our own reports,insights and dashboards. Leaning how to share options, security settings, publishing to the Power BI service, and collaborating with teammates to create a seamless data analysis and sharing experience.

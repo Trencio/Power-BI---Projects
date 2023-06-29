@@ -55,6 +55,9 @@ Learnt Data Visualization and Data Analytics with Power Bi by solving  5 Realist
 <img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Amazon%20Business%20Intelligence%20Dashboard.png/">
 
 
+6. ### Bike Shop BI
+<img src = "https://github.com/Trencio/Power-BI-Projects/blob/main/Bike%20Shop%20BI%20Dashboard%20(In%20Progress)%20.jpg/">
+
 ## What I Learned With Power BI Over The Years: 
 
   1. Data Modeling: Power BI taught me how to structure and model your data effectively. Actively  learning about creating relationships between tables, defining calculated columns and measures, and implementing data hierarchies. While also understanding data modeling is crucial for building powerful and accurate visualizations.
